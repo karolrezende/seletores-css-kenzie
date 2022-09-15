@@ -1,0 +1,27 @@
+.kenzie-titulo{
+    text-align: center;
+}
+.kenzie-subtitulo-dois{
+    font-size: 30px;
+}
+.kenzie-subtitulo-negrito{
+    color: blue;
+}
+.kenzie-texto-box{
+    background-color: blue;
+    font-size: 20px;
+    color: white;
+}
+.kenzie-titulo-tres-negrito{
+    color: blue;
+}
+.kenzie-rodape{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+
+}
